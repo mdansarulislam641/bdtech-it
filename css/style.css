@@ -1,0 +1,14 @@
+/* ----benner part ----- */
+
+.overlay{
+    opacity: .5;
+    z-index: 1;
+    height:100%;
+    background:black;
+}
+.benner-text{
+ z-index: 999;
+}
+.benner-title{
+font-size: 70px;
+}
